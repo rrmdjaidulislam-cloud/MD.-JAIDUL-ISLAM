@@ -1,0 +1,6 @@
+{
+  "name": "Edustika Online Tutoring",
+  "description": "A premium personalized online math tutoring platform featuring an interactive digital classroom with a live whiteboard, custom quizzes, notes, tutor profile, and an AI Math Tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
